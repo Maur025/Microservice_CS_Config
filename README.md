@@ -24,7 +24,7 @@ Crea otra base de datos con el nombre "customer_support_vehicleDb".<br>
 
 Endpoint de Cliente: http://localhost:8090/api/client/<br>
 Endpoint de Vehicle: http://localhost:9090/api/vehicle/<br>
-<br><br>
+<br>
 Endpoint de Eureka: http://localhost:8761/eureka
 <br>
 <br>
